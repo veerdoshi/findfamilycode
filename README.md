@@ -4,3 +4,4 @@
 # MatLab UI ref. https://thingspeak.com/channels/220977
 #youtube video https://www.youtube.com/watch?v=9UEcT5GxdBk&t=500s
 # quake data : http://quake-api.herokuapp.com/quakes
+ATT APN https://www.att.com/esupport/article.html#!/wireless/KM1218310
